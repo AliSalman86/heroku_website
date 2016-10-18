@@ -1,0 +1,1 @@
+<?php include('fanpage2.html');
